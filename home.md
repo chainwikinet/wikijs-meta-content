@@ -2,12 +2,12 @@
 title: Home
 description: Welcome to the Chainwiki Network
 published: true
-date: 2020-07-19T21:55:41.770Z
+date: 2020-07-19T22:08:55.833Z
 tags: 
 editor: markdown
 ---
 
-# Welcome to the Chainwiki Network
+# Welcome to Chainwiki Network
   
 ## Communities deserve great wikis.
 
